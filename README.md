@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+Korkuyoruz ilk repo
